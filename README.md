@@ -19,5 +19,5 @@ A máquina executará um código que irá gerar um número aleatório. Com base 
 ![amigo-sorteado](https://github.com/user-attachments/assets/0f6e5d08-19a9-4f42-8d10-766f3ba0569b)
 Após cada sorteio, a máquina reinicia a aplicação, retornando ao seu estado inicial e permitindo novamente o preenchimento da lista com outros nomes.
 
-Caso o usuário tente pressionar o botão "sortear amigo" antes de adicionar algum nome à lista, será gerado uma mensagem de erro:
+Caso o usuário tente pressionar o botão "sortear amigo" antes de adicionar algum nome à lista, será gerada uma mensagem de erro:
 ![digite-um-nome-antes](https://github.com/user-attachments/assets/ec225f8d-6f6e-40ff-8891-abe9f1b51b95)
